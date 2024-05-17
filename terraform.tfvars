@@ -10,7 +10,7 @@ vpc_cidr           = "10.11.0.0/16"
 public_subnet_cidr = "10.11.1.0/24"
 
 # force to use default created keypair in AWS
-keyname_custom     = "chkp-aws-key"
+keyname_custom     = "chkp-aws-sales-preechas-key"
 
 # Linux Virtual Machine
 linux_instance_type               = "t2.micro"
