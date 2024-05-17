@@ -3,7 +3,7 @@
 #####################################
 
 # AWS connection & authentication
-
+/*
 variable "aws_access_key" {
   type = string
   description = "AWS access key"
@@ -18,3 +18,4 @@ variable "aws_region" {
   type = string
   description = "AWS region"
 }
+*/
