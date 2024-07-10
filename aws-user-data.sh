@@ -3,6 +3,9 @@
 sudo apt-get update
 sudo apt-get install -y net-tools
 
+# install ansible
+sudo apt-get install -y ansible
+
 # install apache 
 sudo apt-get install -y apache2
 sudo systemctl start apache2
